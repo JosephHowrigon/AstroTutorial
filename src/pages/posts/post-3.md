@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: Post Numero 3
 author: Jose
 description: "Pollos Hermanos"

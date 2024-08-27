@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: Games in 2024
 author: Joseph (Pro Gamer) Howrigon
 description: I've been playing some old games lately, like Final Fantasy 7.
