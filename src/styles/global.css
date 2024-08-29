@@ -30,13 +30,13 @@ html {
     width: 40px;
     height: 5px;
     margin-bottom: 10px;
-    background-color: #ff9776;
+    background-color: #000000;
   }
   .nav-links {
     width: 100%;
     top: 5rem;
     left: 48px;
-    background-color: #ff9776;
+    background-color: #070707;
     display: none;
     margin: 0;
   }
@@ -53,7 +53,7 @@ html {
   
   .nav-links a:hover,
   .nav-links a:focus {
-    background-color: #ff9776;
+    background-color: hsl(224, 64%, 56%);
   }
   
   .expanded {
@@ -71,9 +71,11 @@ html {
   
     .nav-links a {
       display: inline-block;
-      padding: 15px 20px;
+      padding: 10px 20px;
+      border: solid  2px black;
+      border-radius: 5em;
+      color: black;
     }
     .hamburger {
       display: none;
-    }
   }
