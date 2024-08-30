@@ -1,14 +1,14 @@
 html {
-    background-color: #f1f5f9;
+    background-color: #383838;
     font-family: sans-serif;
   }
   
   body {
-    margin: 0 auto;
-    width: 100%;
-    max-width: 80ch;
-    padding: 1rem;
+    max-width: auto;
+    margin:  auto;
+    padding: .5rem;
     line-height: 1.5;
+    text-align: auto;
   }
   
   * {
@@ -19,6 +19,7 @@ html {
     margin: 1rem 0;
     font-size: 2.5rem;
   }
+
   /* nav styles */
   .hamburger {
     padding-right: 20px;
@@ -79,3 +80,5 @@ html {
     .hamburger {
       display: none;
   }
+
+}
